@@ -15,8 +15,8 @@ using System.Data;
 
 namespace Project_2.Controllers
 {
-    [Authorize(Roles = UserRoles.Admin)]
-    [Route("[controller]")]
+    
+    [Route("api/[controller]")]
     [ApiController]
     public class AuthenticateController : ControllerBase
     {

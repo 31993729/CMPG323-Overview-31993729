@@ -13,7 +13,7 @@ using Project_2.Models;
 namespace Project_2.Controllers
 {
     [Authorize(Roles = UserRoles.Admin)]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
     {

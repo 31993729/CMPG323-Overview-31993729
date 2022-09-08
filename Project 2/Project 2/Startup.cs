@@ -38,7 +38,7 @@ namespace Project_2
             services.AddControllers();
             
             //Conection String and swaggger
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=ConnectionStrings:ConnStr"));
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
             services.AddSwaggerGen(c => 
             {
                 c.SwaggerDoc("v2", new OpenApiInfo
@@ -71,7 +71,7 @@ namespace Project_2
             });
 
             // For Entity Framework  
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnStr")));
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             // For Identity  
             services.AddIdentity<ApplicationUser, IdentityRole>()
