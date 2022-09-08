@@ -5,13 +5,19 @@ Creating the repository and adding my project layout today whilst learning to us
 
 ## Project 2
 Created the project 2 and added the Nuget Package mangers:
+
 Microsoft.EntityFrameworkCore
+
 Microsoft.EntityFrameworkCore.SqlServer
+
 Microsoft.EntityFrameworkCore.Design
+
 Microsoft.EntityFrameworkCore.Tools
 
-With Swagger:
+And with Swagger:
+
 Microsoft.OpenApi (latest version)
+
 Swashbuckle.AspNetCore (latest version)
 
 Added the DB ConnectedOffice and connection string with data link properties without security
