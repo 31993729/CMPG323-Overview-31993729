@@ -22,18 +22,12 @@ Swashbuckle.AspNetCore (latest version)
 
 Added the DB ConnectedOffice and connection string with data link properties without security
 
-## Refrences
-Visited websites:
-https://docs.microsoft.com/en-us/ef/core/cli/dotnet
+## Project 2 errors
+My database could add the asp.net tables and so the whole authentication isn't working cause the authentication isn't working, the get's, delete's, ext. is also not working now but was working prior to the authentication
 
-https://stackoverflow.com/questions/42991736/ef-core-error-no-project-was-found-change-the-current-working-directory-or-us
+The database is added to azure and the Azure is shared witht the Markers
 
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.422-windows-x64-installer
-
-https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
-
-https://portal.azure.com/#@nwucloud.onmicrosoft.com/resource/subscriptions/f50fe505-f571-4192-bad5-4148bf2b4368/resourceGroups/rgProject2/providers/Microsoft.ApiManagement/service/apim-project2-31993729/apim-apis
-
-https://www.tutorialsteacher.com/sqlserver/install-sql-server
-
-https://www.microsoft.com/en-us/download/details.aspx?id=56730
+## Refrences for project 2
+The refrences is added into a word document in the project 2 folder
+## Endpoints
+<img src="C:\Users\User\Documents\Uni\CMPG 323\Project\CMPG323-Overview-31993729\Endpoints.png">
