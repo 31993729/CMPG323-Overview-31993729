@@ -30,4 +30,4 @@ The database is added to azure and the Azure is shared with the Markers
 ## Refrences for project 2
 The refrences is added into a word document in the project 2 folder
 ## Endpoints
-![Alt text](C:\Users\User\Documents\Uni\CMPG 323\Project\CMPG323-Overview-31993729\Endpoints.png?raw=true "Title")
+<img src="C:\Users\User\Documents\Uni\CMPG 323\Project\CMPG323-Overview-31993729\Endpoints.png" width="128"/>
