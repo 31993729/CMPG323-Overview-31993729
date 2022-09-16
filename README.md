@@ -30,4 +30,6 @@ The database is added to azure and the Azure is shared with the Markers
 ## Refrences for project 2
 The refrences is added into a word document in the project 2 folder
 ## Endpoints
+### Link:
+https://connectedoffice-31993729.azurewebsites.net/swagger/index.html
 <img src="https://github.com/31993729/CMPG323-Overview-31993729/blob/main/Endpoints.png" width="900"/>
