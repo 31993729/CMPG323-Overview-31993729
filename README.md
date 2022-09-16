@@ -25,9 +25,9 @@ Added the DB ConnectedOffice and connection string with data link properties wit
 ## Project 2 errors
 My database could add the asp.net tables and so the whole authentication isn't working cause the authentication isn't working, the get's, delete's, ext. is also not working now but was working prior to the authentication
 
-The database is added to azure and the Azure is shared witht the Markers
+The database is added to azure and the Azure is shared with the Markers
 
 ## Refrences for project 2
 The refrences is added into a word document in the project 2 folder
 ## Endpoints
-<img src="C:\Users\User\Documents\Uni\CMPG 323\Project\CMPG323-Overview-31993729\Endpoints.png">
+![Alt text](C:\Users\User\Documents\Uni\CMPG 323\Project\CMPG323-Overview-31993729\Endpoints.png "Title")
