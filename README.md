@@ -32,4 +32,4 @@ The refrences is added into a word document in the project 2 folder
 ## Endpoints
 ### Link:
 https://connectedoffice-31993729.azurewebsites.net/swagger/index.html
-<img src="https://github.com/31993729/CMPG323-Overview-31993729/blob/main/Endpoints2.png" width="900"/>
+<img src="https://github.com/31993729/CMPG323-Overview-31993729/blob/main/Endpoints2.png" width="1000"/>
