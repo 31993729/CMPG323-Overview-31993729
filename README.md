@@ -33,3 +33,7 @@ The refrences is added into a word document in the project 2 folder
 ### Link:
 https://connectedoffice-31993729.azurewebsites.net/swagger/index.html
 <img src="https://github.com/31993729/CMPG323-Overview-31993729/blob/main/Endpoints2.png" width="1000"/>
+
+## Refrences for project 3
+
+Create new ASP.NET Core MVC Web App
